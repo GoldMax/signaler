@@ -1,0 +1,8 @@
+{
+	"name": "signaler",
+	"targetType": "executable",
+	"sourceFiles":
+	[
+		"main.d"
+	]
+}
